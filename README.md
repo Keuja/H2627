@@ -1,25 +1,4 @@
 # H2627
 Horaire 2026-27 Chamblandes
 
-## Salles
-### bâtiment A
-A005  --
-A006  --
-A008  --
-A009  --
-A201  IT
-A202  info
-A203  
-A204  --
-A205  --
-A206
-A207  --
-A208  --
-A209
-A210 info
-A301 libre accès
-A4
-### bâtiment B
-### bâtiment C
-### bâtiment D
-### bâtiment S
+## Liste des salles, des maîtres et des classes
