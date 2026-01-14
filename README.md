@@ -1,9 +1,9 @@
-#H2627
+# H2627
 Horaire 2026-27 Chamblandes
 
-##Salles
+## Liste des salles
 
-###bâtiment A
+### bâtiment A
 A005 --
 A006 -- 
 A008 -- 
